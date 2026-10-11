@@ -1,9 +1,25 @@
+<p align="center">
+  <img src="assets/logo.png" width="120" alt="Delay Dinámico">
+</p>
 
+<h1 align="center">Delay Dinámico</h1>
+
+<p align="center">
   Cambia el delay de tu stream de Twitch <b>en vivo, sin cortar la transmisión</b>.<br>
   Integración con OBS, presets anti stream snipe y botón de pánico. Gratis para Windows.
+</p>
 
+<p align="center">
+  <a href="https://github.com/Benjah42/Delay-Dinamico/releases/latest/download/DelayDinamico-portable.zip"><b>⬇ Descargar</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://benjah42.github.io/Delay-Dinamico/">Página web</a>
+</p>
 
-## ¿Qué hace?
+<p align="center">
+  <img src="assets/panel-live.webp" width="720" alt="Panel de Delay Dinámico">
+</p>
+
+## Qué hace
 
 Delay Dinámico se pone entre OBS y Twitch. Sube el delay cuando entras a partida para que no te hagan stream snipe y bájalo en el lobby para hablar con tu chat en directo.
 
@@ -31,4 +47,4 @@ Delay Dinámico es gratis para uso personal. Si te sirve, puedes apoyar el proye
 
 ---
 
-<sub>No está afiliado con Twitch, Riot Games ni OBS Project.
+<sub>No está afiliado con Twitch, Riot Games ni OBS Project.</sub>
