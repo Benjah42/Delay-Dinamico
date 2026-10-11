@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Benjah42/Delay-Dinamico/releases/latest/download/DelayDinamico-portable.zip"><b>⬇ Descargar</b></a>
+  <a href="https://github.com/Benjah42/Delay-Dinamico/releases/latest/download/DelayDinamico.zip"><b>⬇ Descargar</b></a>
   &nbsp;·&nbsp;
   <a href="https://benjah42.github.io/Delay-Dinamico/">Página web</a>
 </p>
@@ -32,7 +32,7 @@ Delay Dinámico se pone entre OBS y Twitch. Sube el delay cuando entras a partid
 
 ## Cómo instalar
 
-1. [Descarga el zip](https://github.com/Benjah42/Delay-Dinamico/releases/latest/download/DelayDinamico-portable.zip) y descomprímelo en una carpeta fija.
+1. [Descarga el zip](https://github.com/Benjah42/Delay-Dinamico/releases/latest/download/DelayDinamico.zip) y descomprímelo en una carpeta fija.
 2. Doble clic en **Abrir Delay Dinamico.bat**. La primera vez descarga FFmpeg sola.
 3. En **Ajustes**, pega tu clave de transmisión de Twitch y la contraseña del WebSocket de OBS.
 4. Pulsa **Preparar OBS** y luego **Iniciar**.
