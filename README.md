@@ -3,7 +3,7 @@
   Integración con OBS, presets anti stream snipe y botón de pánico. Gratis para Windows.
 
 
-## Qué hace
+## ¿Qué hace?
 
 Delay Dinámico se pone entre OBS y Twitch. Sube el delay cuando entras a partida para que no te hagan stream snipe y bájalo en el lobby para hablar con tu chat en directo.
 
